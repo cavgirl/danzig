@@ -1,0 +1,148 @@
+div.SCContent {
+	overflow-x: hidden;
+	overflow-y: hidden;
+}
+
+div#obj309 {
+position: absolute;
+overflow: hidden;
+top: 329px;
+left: -170px;
+width: 100px;
+height: 100px;
+opacity: 1;
+z-index: 4;
+display:none;
+pointer-events: none;
+
+}
+div#obj460 {
+position: absolute;
+overflow: hidden;
+top: -7px;
+left: -6px;
+width: 386px;
+height: 683px;
+opacity: 1;
+z-index: 5;
+display:block;
+pointer-events: auto;
+
+}
+div#obj304 {
+position: absolute;
+overflow: hidden;
+top: -34px;
+left: -25px;
+width: 408px;
+height: 772px;
+opacity: 0.2;
+z-index: 2;
+display:block;
+pointer-events: none;
+
+}
+img#obj304_img {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 408px;
+	height: 772px;
+}
+
+div#obj306 {
+position: absolute;
+overflow: hidden;
+top: 91px;
+left: 35px;
+width: 309px;
+height: 516px;
+opacity: 1;
+z-index: 3;
+display:block;
+pointer-events: auto;
+user-select: none;  
+-moz-user-select: none;
+-webkit-user-select: none;
+-ms-user-select: none;
+cursor: default;
+padding: 10px;
+font-family: 'trebuchet ms', geneva;
+font-size: 26px;
+color: #FFFFFF;
+text-align: justify;
+}
+div#obj306_content {
+}
+
+
+
+div#obj439 {
+position: absolute;
+overflow: hidden;
+top: -14px;
+left: -3px;
+width: 382px;
+height: 692px;
+opacity: 1;
+z-index: 0;
+display:block;
+pointer-events: none;
+
+box-shadow: 2px 2px 2px 0px rgba(0,0,0,0.6078431);
+-webkit-box-shadow: 2px 2px 2px 0px rgba(0,0,0,0.6078431);
+-moz-box-shadow: 2px 2px 2px 0px rgba(0,0,0,0.6078431);
+background-image: none;
+border-color: #000000;
+border-width: 1px;
+border-style: solid;
+border-radius: 0px;
+-moz-border-radius: 0px;
+-webkit-border-radius: 0px;
+background-color: #000000;
+background-repeat: repeat;
+}
+#obj302 {
+position: absolute;
+overflow: hidden;
+top: 208px;
+left: 1px;
+width: 375px;
+height: 247px;
+opacity: 1;
+z-index: 1;
+display:none;
+pointer-events: auto;
+
+background-color: #000000;
+}
+
+
+
+
+
+
+
+body {
+font-family: Lato, Arial, Helvetica, Sans-Serif;
+font-size: 20px;
+line-height: 1.2;
+color: #000000
+}
+:link { color: #0A52A2; }
+:visited { color: #5B2599; }
+/* Start of default CSS Styles */
+p, h1, h2, h3, h4, h5, h6 {
+    margin: 0px;
+    padding: 0px;
+}
+h1 { font-size: 2em; }
+h2 { font-size: 1.5em; }
+h3 { font-size: 1.17em; }
+h4 { font-size: 1.12em; }
+h5 { font-size: .83em; }
+h6 { font-size: .67em; }
+/* End of default CSS Styles */
+.SCPage {
+background-color: #FFFFFF
+}
